@@ -1,0 +1,62 @@
+[
+  {
+    "id": "57914",
+    "negara": "Indonesia",
+    "provinsi": "JawaTengah",
+    "kota": "Kebumen",
+    "kecamatan": "Nanggung",
+    "desa": "Malasari",
+    "kampung": "Malasari",
+    "rtRw": "01/02"
+  },
+  {
+    "id": "72144",
+    "negara": "Malaysia",
+    "provinsi": "Selangor",
+    "kota": "Shah Alam",
+    "kecamatan": "Petaling",
+    "desa": "Sungai Buloh",
+    "kampung": "Damansara",
+    "rtRw": "01/08"
+  },
+  {
+    "id": "36752",
+    "negara": "India",
+    "provinsi": "Maharashtra",
+    "kota": "Mumbai",
+    "kecamatan": "Mumbai",
+    "desa": "Cuffe Parade",
+    "kampung": "Nariman Point",
+    "rtRw": "02/09"
+  },
+  {
+    "id": "29260",
+    "negara": "Brazil",
+    "provinsi": "Brazil",
+    "kota": "Sao Paulo",
+    "kecamatan": "Pinheiros",
+    "desa": "Vila Madalena",
+    "kampung": "Perdizes",
+    "rtRw": "04/15"
+  },
+  {
+    "id": "78568",
+    "negara": "Australia",
+    "provinsi": "New South Wales",
+    "kota": "Sydney",
+    "kecamatan": "Central Business District",
+    "desa": "Darling Harbour",
+    "kampung": "Circular Quay",
+    "rtRw": "05/02"
+  },
+  {
+    "id": "45669",
+    "negara": "jaoan",
+    "provinsi": "japan",
+    "kota": "japan",
+    "kecamatan": "japan",
+    "desa": "japan",
+    "kampung": "japan",
+    "rtRw": "0"
+  }
+]
